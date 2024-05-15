@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=sWtyOhdf3DE
+
 # terminal_minecraft
 
 in linux compile with
