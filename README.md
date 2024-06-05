@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=sWtyOhdf3DE
 # terminal_minecraft
 
 in linux compile with
-`gcc terminal_minecraft.c -lm -lX11`
+`gcc terminal_minecraft.c -lm          //-lX11`
 
 controls:
 - use arrow keys for moving
